@@ -24,3 +24,6 @@ De igual forma el comprador escoge las características de diseño interior del 
 
 ## Modelo de Diagrama de Estados
 ![Diagrama de estados](https://firebasestorage.googleapis.com/v0/b/playapp-419eb.appspot.com/o/Diagrama-Estados.png?alt=media&token=f811d28f-10ce-499e-8e2d-861f640663f6)
+
+## Modelo de Diagrama de Clases
+![Diagrama de clases](https://firebasestorage.googleapis.com/v0/b/playapp-419eb.appspot.com/o/Diagrama-Clases.png?alt=media&token=5ffbd711-c8ab-4ba0-b613-83e2e723471e)
