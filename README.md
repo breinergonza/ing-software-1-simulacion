@@ -21,3 +21,6 @@ De igual forma el comprador escoge las características de diseño interior del 
 
 ## Modelo de Casos de Uso
 ![Casos de Uso](https://firebasestorage.googleapis.com/v0/b/playapp-419eb.appspot.com/o/Casos-uso.png?alt=media&token=eda85221-8a2b-4b6e-8429-4c96db222247)
+
+## Modelo de Diagrama de Estados
+![Diagrama de estados](https://firebasestorage.googleapis.com/v0/b/playapp-419eb.appspot.com/o/Diagrama-Estados.png?alt=media&token=f811d28f-10ce-499e-8e2d-861f640663f6)
